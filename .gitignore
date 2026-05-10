@@ -1,0 +1,8 @@
+# .gitignore 추가 내용
+data/
+checkpoints/
+__pycache__/
+*.pth
+*.pt
+.venv/
+.env
